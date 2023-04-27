@@ -25,7 +25,7 @@ After performing every steps like data wrangling , EDA , data cleaning, data pre
 
 The following observations were made after analyzing the data :
 
-General trend is as the temperature increases number of bike rentals also increases.
+* General trend is as the temperature increases number of bike rentals also increases.
 Bike rental count decreases with increase in Humidity.
 Bike Rentals are fairly invariable of Wind speed but a faint increase can be seen in the trendline.
 Bike Rentals mildly increases with increase in Visibility
